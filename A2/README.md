@@ -1,1 +1,1 @@
-Project written in Lisp/ Scheme family using DrRacket, which can be found here: https://racket-lang.org/
+Project written in Prolog using SWI-Prolog, which can be found here: http://www.swi-prolog.org/
