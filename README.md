@@ -1,3 +1,4 @@
 # COMP-3200
 Principals of Programming Languages
-Projects from Auburn University's Principals of Programming languages class
+
+Projects from my COMP 3200 class. The Projects are written in Python, Prolog, and Lisp. 
