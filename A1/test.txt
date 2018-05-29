@@ -1,0 +1,6 @@
+tmyar = 8var = 1
+avg = (myvar + var) / 2
+print avg
+newVar = printt *
+
+76
